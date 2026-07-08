@@ -85,32 +85,6 @@ python password_generator.py
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Main Interface
-
-> Add screenshot: `screenshots/home.png`
-
----
-
-### 🔐 Password Generated
-
-> Add screenshot: `screenshots/generated_password.png`
-
----
-
-### 💪 Password Strength
-
-> Add screenshot: `screenshots/password_strength.png`
-
----
-
-### 📝 Password History
-
-> Add screenshot: `screenshots/password_history.png`
-
----
-
 ## 📖 How It Works
 
 1. Select the desired password length.
