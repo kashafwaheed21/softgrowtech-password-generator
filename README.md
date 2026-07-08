@@ -84,6 +84,19 @@ python password_generator.py
 ```
 
 ---
+## 📸 Screenshots
+
+### Main Interface
+
+![Main Interface](screenshots/home.png)
+
+### Generated Password
+
+![Generated Password](screenshots/generated_password.png)
+
+### Password History
+
+![Password History](screenshots/password_history.png)
 
 ## 📖 How It Works
 
