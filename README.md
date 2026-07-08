@@ -1,3 +1,6 @@
+Secure Password Generator Pro
+Python • CustomTkinter • GUI
+
 # 🔐 Secure Password Generator Pro
 
 A modern GUI-based Password Generator developed in Python using **CustomTkinter**. This application allows users to generate strong and secure passwords with customizable options, helping improve password security and usability.
